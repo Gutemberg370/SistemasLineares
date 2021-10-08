@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622239764 source:c:\users\gutem\desktop\metodos de resolução de sistemas lineares\a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Métodos.h"
+
+1620687941 c:\users\gutem\desktop\metodos de resolução de sistemas lineares\a\métodos.h
+	<math.h>
+
